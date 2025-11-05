@@ -1,0 +1,37 @@
+name: aplikasi_joki_flutter
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/ml.jpg
+    - assets/pubg.jpg
+    - assets/genshin.jpg
+    - assets/ff.jpg
+    - assets/delta force.jpg
+    - assets/gold and glory.jpg
+    - assets/honkai.jpg
+    - assets/wuthering.jpg
+
+  fonts:
+    - family: Pricedown
+      fonts:
+        - asset: fonts/PricedownBl.ttf
