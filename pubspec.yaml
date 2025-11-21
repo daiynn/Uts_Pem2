@@ -9,13 +9,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
   cupertino_icons: ^1.0.8
+  audioplayers: ^5.2.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
   flutter_lints: ^5.0.0
 
 flutter:
@@ -30,6 +29,7 @@ flutter:
     - assets/gold and glory.jpg
     - assets/honkai.jpg
     - assets/wuthering.jpg
+    - assets/songf.mp3
 
   fonts:
     - family: Pricedown

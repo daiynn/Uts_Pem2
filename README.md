@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # aplikasi_joki_flutter
 
 A new Flutter project.
@@ -18,3 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # tugas-projek-Pm2
 >>>>>>> 3c1ba8167b56d5368d714b6d8d02155185c6166b
+=======
+
+>>>>>>> 6b9606e96ff0256c7589d3e87cf9f9a1d0deefcb
