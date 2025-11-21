@@ -355,13 +355,7 @@ class HomePage extends StatelessWidget {
 class ListInfoPage extends StatelessWidget {
   const ListInfoPage({super.key});
 
-  final info = const [
-    "Joki Mobile Legends Murah",
-    "Joki PUBG Rank Cepat",
-    "Joki Free Fire 100% Aman",
-    "Joki Genshin Artifact + Level",
-    "Top Up Game Termurah",
-  ];
+   final info = const ["Nama : Derian", "NIM : 23552011114"];
 
   @override
   Widget build(BuildContext context) {
